@@ -2,7 +2,7 @@
 
 HashChat is a decentralized chat application (DApp) built on the Ethereum blockchain. It allows users to securely communicate with each other using blockchain technology, ensuring privacy, transparency, and immutability.
 
-![image](https://github.com/user-attachments/assets/882f755f-6218-4999-a510-16042729ad95)
+![Uploading image.png…]()
 
 
 

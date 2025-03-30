@@ -18,7 +18,7 @@ const AboutPage = () => {
       role: 'Blockchain Developer',
       image: '/images/member2.jpg',
       description:
-        'Creative frontend developer with a keen eye for design and user experience. Expert in creating responsive and intuitive user interfaces for web3 applications.',
+       'Security expert focused on blockchain and cryptography. Ensures the application meets the highest security standards while maintaining excellent performance.',
       skills: ['Solidity', 'Ethereum', 'Web3.js', 'Smart Contracts', 'MetaMask Integration']
     },
     {
@@ -34,8 +34,16 @@ const AboutPage = () => {
       role: 'Front End Developer',
       image: '/images/member4.jpg',
       description:
-        'Security expert focused on blockchain and cryptography. Ensures the application meets the highest security standards while maintaining excellent performance.',
+        'Creative frontend developer with a keen eye for design and user experience. Expert in creating responsive and intuitive user interfaces for web3 applications.',
       skills: ['React', 'Next.js', 'JavaScript', 'CSS/SCSS', 'UI/UX Design']
+    },
+    {
+      name: 'Siddhant Lal',
+      role: 'Testing and Maintaining',
+      image: '/images/member5.jpg',
+      description:
+        'DevOps specialist with expertise in blockchain security and application deployment. Manages testing infrastructure, ensures system reliability, and handles continuous deployment processes across various environments.',
+      skills: ['DevOps', 'CI/CD', 'Testing', 'Deployment', 'Security', 'Maintenance']
     }
   ];
 

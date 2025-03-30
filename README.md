@@ -49,6 +49,8 @@ Follow these steps to get set up with HashChat:
     Currency Symbol: ETH
     Block Explorer URL: https://holesky.etherscan.io
     ```
+    ![image](https://github.com/user-attachments/assets/bdf51dff-f874-45ef-b4b0-3340a84cea23)
+
 *   Click **"Save"**.
 *   Ensure **Holesky Testnet** is selected as your active network in MetaMask. 🔄
 
@@ -56,6 +58,7 @@ Follow these steps to get set up with HashChat:
 
 *   You need test ETH to pay for transactions (like sending messages) on the Holesky network.
 *   Visit a Holesky Faucet website (you may need to search for currently active ones, e.g., search "Holesky faucet"). *Common faucets require mining or social media verification.*
+     [Holesky Faucet](https://holesky-faucet.pk910.de)
 *   Copy your MetaMask wallet address 📋 (Click on your account name in MetaMask to copy).
 *   Paste your address into the faucet website's input field.
 *   Follow the faucet's instructions (e.g., "Mine & Request Tokens", "Send Me ETH").
@@ -71,7 +74,7 @@ Once prerequisites and setup are complete:
 
 1.  Navigate to the HashChat application: [https://mechhashchat.netlify.app/](https://mechhashchat.netlify.app/)
 2.  Click the **"Connect Wallet"** button, typically located in the top right corner.
-3.  MetaMask will pop up asking for connection permission. Review the request and click **"Connect"** or **"Approve"**.
+3.  MetaMask will pop up asking for connection permission. Review the request and click **"Connect"**.
 
 ### b. Set Up Profile (One-Time)
 

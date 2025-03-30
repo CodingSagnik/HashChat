@@ -57,7 +57,7 @@ Follow these steps to get set up with HashChat:
 ### 3. Get Holesky Test ETH (Faucet) 💧
 
 *   You need test ETH to pay for transactions (like sending messages) on the Holesky network.
-*   Visit a Holesky Faucet website *
+*   Visit a Holesky Faucet website 
      [Holesky Faucet](https://holesky-faucet.pk910.de)
 *   Copy your MetaMask wallet address 📋 (Click on your account name in MetaMask to copy).
 *   Paste your address into the faucet website's input field.

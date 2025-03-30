@@ -29,7 +29,6 @@ Follow these steps to get set up with HashChat:
 
 *   Go to the official MetaMask website: [MetaMask Download](https://metamask.io/download/)
 *   Click **"Install MetaMask for Chrome"** (or select your browser).
-*   Follow the browser extension installation prompts.
 *   Once installed, create a **new wallet** or **import an existing one** using your seed phrase.
 *   **⚠️ IMPORTANT:** Store your seed phrase in a very secure location and **never** share it with anyone. 🔑
 
@@ -72,15 +71,15 @@ Once prerequisites and setup are complete:
 
 ### b. Set Up Profile (One-Time)
 
-1.  After connecting, click on your account icon or profile section.
+1.  After connecting, click "Connect Wallet" again.
 2.  Enter your desired **username**.
-3.  Click **"Submit"** or "Save Profile".
+3.  Click **"Submit"**.
 4.  MetaMask will prompt you to approve a transaction to save your profile on the blockchain. **Confirm** the transaction. (This requires a small amount of Holesky ETH for gas).
 
 ### c. Start Chatting
 
 1.  To initiate a chat, navigate to the **"All Users"** tab or similar section listing registered users.
-2.  Find the user you want to chat with and click the **"Add Friend"** or "Start Chat" button next to their name.
+2.  Find the user you want to chat with and click the **"Add Friend"** button below their name.
 3.  MetaMask will prompt you to approve a transaction to create the chat relationship on the blockchain. **Confirm** the transaction.
 4.  Once the transaction is confirmed, you can select the friend from your chat list and start sending messages. 💬
 
@@ -89,17 +88,6 @@ Once prerequisites and setup are complete:
 1.  When you send your first message (or periodically), MetaMask may ask for permission to **encrypt/decrypt messages**. This uses your public key for secure end-to-end communication.
 2.  **Approve** the signature or encryption request. This does *not* send a transaction but allows the app to use your keys securely for messaging.
 3.  Messages are encrypted using public key cryptography, ensuring only you and the recipient can read them. 🔐
-
----
-
-## 📝 Important Notes
-
-*   **Keep Test ETH:** Always maintain a small balance of Holesky ETH in your wallet to cover gas fees for sending messages and other interactions.
-*   **Blockchain Transactions:** Every message sent is recorded as a transaction on the Holesky blockchain.
-*   **Transaction Confirmation:** Wait for a transaction to be confirmed on the blockchain before sending the next message, especially during high network congestion.
-*   **Security:**
-    *   **NEVER** share your MetaMask private keys or seed phrase.
-    *   Always double-check you are on the correct website URL (`https://mechhashchat.netlify.app/`) to prevent phishing attacks. 🔍
 
 ---
 
@@ -118,13 +106,11 @@ Once prerequisites and setup are complete:
 
 ---
 
-## ⛽ Gas Fees
+## 📝 Important Notes
 
-*   All actions on HashChat that interact with the blockchain (setting profile, adding friends, sending messages) require a transaction fee, known as **gas**.
-*   Gas fees are paid in **Holesky ETH**.
-*   Holesky ETH is for testing purposes only and has **no real monetary value**.
-*   The amount of gas required depends on the complexity of the action and network congestion. ⛽
-
+*   **Keep Test ETH:** Always maintain a small balance of Holesky ETH in your wallet to cover gas fees for sending messages and other interactions.
+*   **Blockchain Transactions:** Every message sent is recorded as a transaction on the Holesky blockchain.
+*   **Transaction Confirmation:** Wait for a transaction to be confirmed on the blockchain before sending the next message, especially during high network congestion.
 ---
 
 ## 🔒 Privacy & Security

@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  NEXT_PUBLIC_NETWORK = "holesky"
+  NEXT_PUBLIC_CONTRACT_ADDRESS = "0x5eF93E0fBDd22635b449F986CCFb3A364CC6721E"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs" 

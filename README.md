@@ -1,132 +1,67 @@
-# Web3 Chat Application (DApp)
+# HashChat# HashChat
 
-Building and Deploying a Web3 Chat Application (DApp) with Next.js, Hardhat, MetaMask, Solidity & Ethereum
+**HashChat** is a decentralized chat application (DApp) built on the Ethereum blockchain. It allows users to securely communicate with each other using blockchain technology, ensuring privacy, transparency, and immutability. The application leverages smart contracts and Web3 technologies to provide a seamless and decentralized chatting experience.
 
-Embark on a journey into the decentralized world of communication with our Web3 Chat Application DApp. This cutting-edge platform leverages Next.js for front-end development, Hardhat for smart contract deployment, MetaMask for wallet integration, Solidity for smart contract development, and Ethereum for blockchain functionality.
+---
 
-Our Web3 Chat Application enables users to engage in secure and private conversations directly on the Ethereum blockchain. By utilizing decentralized technologies, we ensure that user data remains encrypted and inaccessible to third parties, offering a level of privacy and security unmatched by centralized messaging platforms
+## 🚀 Features
 
-## Project Overview
+### 1. **Decentralized Messaging**
+- Messages are stored on the blockchain, ensuring transparency and immutability.
+- No central authority controls the data.
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/blockchain-chat-dapp.jpg)
+### 2. **Secure Communication**
+- Uses Ethereum's cryptographic features to ensure secure and private communication.
+- Messages are tied to users' public keys.
 
-## Instruction
+### 3. **User Authentication**
+- Wallet-based authentication using MetaMask or other Web3 wallets.
+- No need for traditional username/password systems.
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
+### 4. **Real-Time Updates**
+- Real-time chat updates using Web3 event listeners.
+- Seamless user experience with instant message delivery.
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code)
+### 5. **Responsive Design**
+- Fully responsive UI for desktop and mobile devices.
+- Modern and clean design for an intuitive user experience.
 
-#### Setup Video
+### 6. **Blockchain Integration**
+- Deployed on the Holesky Ethereum testnet.
+- Smart contracts handle message storage and user interactions.
 
-- [Final Code Setup video](https://youtu.be/VI2DW5Ttupg?si=-ZyXK842Gionh1Xy)
+### 7. **Environmentally Friendly**
+- Built on Ethereum's Proof-of-Stake (PoS) network, ensuring energy efficiency.
 
-#### Full Project
+---
 
-```
-  WATCH: Complete Project
-  URL: https://youtu.be/yle9MMqY7yY?si=-leWX95pl8rBjZy_
-```
+## 🛠️ Technologies Used
 
-#### Setup & Demo
+### Frontend
+- **React.js**: For building the user interface.
+- **Next.js**: For server-side rendering and optimized performance.
+- **CSS Modules**: For modular and scoped styling.
 
-WATCH: Setup & Demo Of Project
-URL: https://www.theblockchaincoders.com/sourceCode/blockchain-chat-dapp-project-source-code
+### Backend
+- **Ethereum Blockchain**: For decentralized data storage.
+- **Smart Contracts**: Written in Solidity to handle chat logic.
+- **Infura**: For connecting to the Ethereum network.
 
-```
+### Web3 Integration
+- **Ethers.js**: For interacting with the Ethereum blockchain.
+- **MetaMask**: For wallet authentication and transaction signing.
 
-#### Install Vs Code Editor
+---
 
-```
+## 📦 Installation
 
-GET: VsCode Editor
-URL: https://code.visualstudio.com/download
+### Prerequisites
+- Node.js (v18.18.0 or higher)
+- MetaMask browser extension
+- An Infura account for RPC access
 
-```
-
-#### NodeJs & NPM Version
-
-```
-
-NodeJs: v18.17.1 (MUST)
-VIDEO: https://youtu.be/PIR0oBVowXU?si=_jVYKmd94tPjmuQR
-NPM: 8.19.2
-URL: https://nodejs.org/en/download
-
-```
-
-#### Clone Starter File
-
-```
-
-GET: Project Starter File Download
-URL: https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-
-```
-
-#### RUP URL : ankr.com
-
-```
-
-GET: ankr.com
-URL: https://www.ankr.com/rpc/
-
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
-
-## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### Setup Video
-
-```
-
-WATCH: Setup & Demo Of Project
-URL: https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-
-```
-
-#### All Projects Final Source Code
-
-```
-
-Download the Final Source Code
-URL: https://www.theblockchaincoders.com/SourceCode
-
-```
-
-#### Test Faucets
-
-theblockchaincoders will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
-
-```
-
-Get: Free Test Faucets
-URL: https://www.theblockchaincoders.com/resource
-
-```
-
-#### RemixID
-
-We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
-
-```
-
-OPEN: RemixID
-URL: https://remix-project.org
-
-```
-
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
-```
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/hashchat.git
+   cd hashchat
